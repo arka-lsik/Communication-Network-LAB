@@ -3,7 +3,7 @@ int main(){
  int node;
      printf("Enter the number of node: ");
      scanf("%d",&node);
-// Here e traverse the 2D array and
+// Here we traverse the 2D array and
 //taking the input from user for netork conncection.
  int i,j;
  int arr[node][node];
